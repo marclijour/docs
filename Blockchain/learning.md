@@ -1,4 +1,5 @@
 # Learning resources on Blockchain
+(This section focuses on English resources. Check other sections for French, etc)
 
 ## Bitcoin
 * Quite comprehensive Bicoin resources from Jameson Lopp: http://lopp.net/bitcoin.html 
@@ -10,6 +11,10 @@
 ### Presentations
 * [Mougayar on the Ethereum ecosystem (Waterloo Hackathon, Oct 2017)](https://www.slideshare.net/wmougayar/mougayar-the-ethereum-ecosystem-eth-hackathonwaterloo-2017) 
 
+### Blogs and Other micro-resources
+* [A beginner's guide to Ethereum (from Coinbase)](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
+* [A beginner's guide to Ethereum tokens (from Coinbase)](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b)
+
 ## Token Economics
 * [Mougayar's talk: Designing Tokenomics and Tokens 2.0 (Zurich, Nov 22, 2017)](https://www.slideshare.net/wmougayar/william-mougayar-designing-tokenomics-and-tokens-20)
 
@@ -19,4 +24,5 @@ http://www.moocblockchain.com/17/mooc-blockchain-particuliers
 
 ## Miscellaneous
 * [Top 20 Blockchain books and whitepapers](http://richtopia.com/emerging-technologies/top-blockchain-books-whitepapers)
+* [Beginner’s guide series on cryptoassets (Linda Xie, 2017)](https://medium.com/@linda.xie/beginners-guide-series-on-cryptoassets-d897535d887)
 
