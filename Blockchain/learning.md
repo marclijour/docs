@@ -19,8 +19,10 @@
 * [Mougayar's talk: Designing Tokenomics and Tokens 2.0 (Zurich, Nov 22, 2017)](https://www.slideshare.net/wmougayar/william-mougayar-designing-tokenomics-and-tokens-20)
 
 ## Training Programs
-### French MOOCs
-http://www.moocblockchain.com/17/mooc-blockchain-particuliers
+### MOOCs
+* [Blockchain for Business - An Introduction to Hyperledger Technologies (The Linux Foundation, on edX)](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
+* [Bitcoin and Cryptocurrency Technologies (Coursera)](https://www.coursera.org/learn/cryptocurrency)
+* [IBM Blockchain Foundation for Developers (Coursera)](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
 
 ## Miscellaneous
 * [Top 20 Blockchain books and whitepapers](http://richtopia.com/emerging-technologies/top-blockchain-books-whitepapers)
