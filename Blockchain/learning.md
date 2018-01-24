@@ -31,6 +31,7 @@
 * [Princeton's course on Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency#)
 * Search for [Blockchain on Udemy](https://www.udemy.com/blockchain/) (seasonal promotions ~ $15)
 * [IBM's Data Science and Cognitive Computing Courses](https://cognitiveclass.ai/)
+* [Master of Science degree in Digital Currency (University of Nicosia)](https://digitalcurrency.unic.ac.cy)
 
 ## Timely and Miscellaneous
 * [Top 20 Blockchain books and whitepapers](http://richtopia.com/emerging-technologies/top-blockchain-books-whitepapers)
