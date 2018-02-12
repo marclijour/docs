@@ -15,6 +15,9 @@
 * [A beginner's guide to Ethereum (from Coinbase)](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
 * [A beginner's guide to Ethereum tokens (from Coinbase)](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b)
 
+## Everything Blockchain
+* [Crypto Canon @Andreessen Horowitz](https://a16z.com/2018/02/10/crypto-readings-resources/) is a master reference. Also check [crypto.a16z.com](crypto.a16z.com) for future updates.
+
 ## Token Economics
 * [Mougayar's talk: Designing Tokenomics and Tokens 2.0 (Zurich, Nov 22, 2017)](https://www.slideshare.net/wmougayar/william-mougayar-designing-tokenomics-and-tokens-20)
 
