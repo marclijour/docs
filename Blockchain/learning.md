@@ -6,9 +6,11 @@
 
 ## Ethereum
 ### Books
+* [e-book from ConsenSys Academy: Blockchain Basics](https://leanpub.com/blockchainknowledgetree)
 * [Introducing Ethereum and Solidity (Chris Dannen, 2017)](https://www.apress.com/us/book/9781484225349)
 
 ### Presentations
+* [EthCC Talks 2018 (all recorded stream from the Paris conference)](https://docs.google.com/spreadsheets/d/1t3CdiKlTiozbFkFwBVbNQ1Qc9s9ipDSRJPwGsHd0Yvw/htmlview)
 * [Mougayar on the Ethereum ecosystem (Waterloo Hackathon, Oct 2017)](https://www.slideshare.net/wmougayar/mougayar-the-ethereum-ecosystem-eth-hackathonwaterloo-2017) 
 
 ### Blogs and Other micro-resources
@@ -17,6 +19,7 @@
 
 ## Everything Blockchain
 * [Crypto Canon @Andreessen Horowitz](https://a16z.com/2018/02/10/crypto-readings-resources/) is a master reference. Also check [crypto.a16z.com](crypto.a16z.com) for future updates.
+* [List of resources from ConsenSys Academy](https://consensys.net/academy/resources/)
 
 ## Token Economics
 * [Mougayar's talk: Designing Tokenomics and Tokens 2.0 (Zurich, Nov 22, 2017)](https://www.slideshare.net/wmougayar/william-mougayar-designing-tokenomics-and-tokens-20)
