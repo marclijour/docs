@@ -17,6 +17,9 @@
 * [A beginner's guide to Ethereum (from Coinbase)](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
 * [A beginner's guide to Ethereum tokens (from Coinbase)](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b)
 
+### References and Tools for Developers
+* [ethereum-developer-tools-list from ConsenSysLabs](https://github.com/ConsenSysLabs/ethereum-developer-tools-list)
+
 ## Everything Blockchain
 * [Crypto Canon @Andreessen Horowitz](https://a16z.com/2018/02/10/crypto-readings-resources/) is a master reference. Also check [crypto.a16z.com](crypto.a16z.com) for future updates.
 * [List of resources from ConsenSys Academy](https://consensys.net/academy/resources/)
