@@ -9,6 +9,9 @@
 * [e-book from ConsenSys Academy: Blockchain Basics](https://leanpub.com/blockchainknowledgetree)
 * [Introducing Ethereum and Solidity (Chris Dannen, 2017)](https://www.apress.com/us/book/9781484225349)
 
+### Online Courses
+* [ConsenSys course: Blockchain Foundations and Use-Cases (on Coursera)](https://blog.coursera.org/blockchain-for-everyone-coursera-and-consensys-launch-certificate-for-non-developers/)
+
 ### Presentations
 * [EthCC Talks 2018 (all recorded stream from the Paris conference)](https://docs.google.com/spreadsheets/d/1t3CdiKlTiozbFkFwBVbNQ1Qc9s9ipDSRJPwGsHd0Yvw/htmlview)
 * [Mougayar on the Ethereum ecosystem (Waterloo Hackathon, Oct 2017)](https://www.slideshare.net/wmougayar/mougayar-the-ethereum-ecosystem-eth-hackathonwaterloo-2017) 
@@ -33,6 +36,7 @@
 
 ## Training Programs
 ### MOOCs
+* [ConsenSys course: Blockchain Foundations and Use-Cases (on Coursera)](https://blog.coursera.org/blockchain-for-everyone-coursera-and-consensys-launch-certificate-for-non-developers/)
 * [Blockchain for Business - An Introduction to Hyperledger Technologies (The Linux Foundation, on edX)](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
 * [Bitcoin and Cryptocurrency Technologies (Coursera)](https://www.coursera.org/learn/cryptocurrency)
 * [IBM Blockchain Foundation for Developers (Coursera)](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
