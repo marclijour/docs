@@ -6,6 +6,7 @@
 
 ## Ethereum
 ### Books
+* [Mastering Ethereum (Andreas Antonopoulos, Gavin Wood, 2018)](https://github.com/ethereumbook/ethereumbook)
 * [e-book from ConsenSys Academy: Blockchain Basics](https://leanpub.com/blockchainknowledgetree)
 * [Introducing Ethereum and Solidity (Chris Dannen, 2017)](https://www.apress.com/us/book/9781484225349)
 
